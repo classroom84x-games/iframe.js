@@ -1,0 +1,22 @@
+{
+  "games": [
+    {
+      "id": "game1",
+      "title": "idc",
+      "description": "Idk",
+      "url": "https://classroom84x.vercel.app/module1.html"
+    },
+    {
+      "id": "game2",
+      "title": "idfc",
+      "description": "idc",
+      "url": "https://classroom84x.vercel.app/module2.html"
+    },
+    {
+      "id": "game3",
+      "title": "ityidfc",
+      "description": "idfc",
+      "url": "https://classroom84x.vercel.app/module3.html"
+    }
+  ]
+}
